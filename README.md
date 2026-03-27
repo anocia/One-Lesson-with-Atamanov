@@ -4,19 +4,22 @@
 
 Скриншоты из игры:
 
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 153521" src="https://github.com/user-attachments/assets/6fa83a70-0299-4a1a-ab6b-b3fe6ef3fe1f" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 153505" src="https://github.com/user-attachments/assets/d1cf301b-2c24-4dec-a070-f2e9adb38eb5" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 153343" src="https://github.com/user-attachments/assets/f26e86fe-ff8d-4cb5-b58d-cf0540e0a7c8" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 152114" src="https://github.com/user-attachments/assets/676c0fe3-3c4c-4dba-bad9-a6d4baa983cf" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 152050" src="https://github.com/user-attachments/assets/a5a7ff9b-83ac-49bc-9891-a8092c33dc2d" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 152032" src="https://github.com/user-attachments/assets/f6195224-dc48-49d6-8fdb-ed717f1b4c62" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151958" src="https://github.com/user-attachments/assets/7eec3a8c-951b-4b3a-91fc-318178d1393d" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151703" src="https://github.com/user-attachments/assets/00f74574-7577-48bb-a5e7-3b82b636a2d0" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151623" src="https://github.com/user-attachments/assets/5db4701f-11b4-4ca3-9ede-2031e85f82b8" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151457" src="https://github.com/user-attachments/assets/862f3885-b464-4f0a-86a9-3a707f6814e6" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151301" src="https://github.com/user-attachments/assets/3b4d7924-2039-4b1f-b6d5-50c4fd7a84e7" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151220" src="https://github.com/user-attachments/assets/aded1bd4-e15a-43d7-bbc8-8b2ce03d5db2" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151139" src="https://github.com/user-attachments/assets/6a970136-7e09-427b-aae6-670b3207d426" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 144318" src="https://github.com/user-attachments/assets/56c36db9-d216-4d87-b2c8-5e4ea56ffa34" />
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 144118" src="https://github.com/user-attachments/assets/0a5ca26b-05fb-4e91-a670-4fd8800d96db" />
-
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 144318" src="https://github.com/user-attachments/assets/09f3849b-5715-4eca-9988-f3dbae2b7cc5" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151139" src="https://github.com/user-attachments/assets/6144a789-0337-4547-b217-ae3d7f3ffb43" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151220" src="https://github.com/user-attachments/assets/bcc746ec-5144-456f-ba26-874ee211b8af" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151301" src="https://github.com/user-attachments/assets/ac8223dd-be44-4114-9a45-6a49b9005965" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151457" src="https://github.com/user-attachments/assets/4d086b03-18ef-45e3-87b4-157a460d31aa" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151623" src="https://github.com/user-attachments/assets/0ecec5c9-0e05-415e-ac9f-7531ad0f356e" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151703" src="https://github.com/user-attachments/assets/aaad9cf0-d424-43e5-9bea-9a508746be70" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151733" src="https://github.com/user-attachments/assets/37e74a00-fbf4-4713-82ee-6801934dbc07" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151831" src="https://github.com/user-attachments/assets/56b6a9d3-6ca0-4302-aed3-04cc20a5ddb8" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151847" src="https://github.com/user-attachments/assets/8d96302c-3251-4629-b3b2-c3773486b0c0" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151930" src="https://github.com/user-attachments/assets/f9f88466-9d29-4df9-bf57-c8ffb96849d7" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 151958" src="https://github.com/user-attachments/assets/5129f01e-db7e-4a2b-a86e-3503a4c39974" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 152032" src="https://github.com/user-attachments/assets/d119be0b-1d5c-4b8a-b5df-d8a7f1bf8ad5" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 152050" src="https://github.com/user-attachments/assets/787f34d0-7b96-44c7-b0dc-158d69b92685" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 152114" src="https://github.com/user-attachments/assets/0c65ab1a-6b34-40a8-a73d-85ac90066297" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 153343" src="https://github.com/user-attachments/assets/08a0245d-3f1b-4624-85e0-4dc9c453dcfb" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 153505" src="https://github.com/user-attachments/assets/0d83e4cb-51dd-4f19-92a2-9831b4a2ae2c" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 153521" src="https://github.com/user-attachments/assets/8cd60c41-35a8-4900-9ecb-a0626ae77729" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 144118" src="https://github.com/user-attachments/assets/e878acab-68f6-466c-aaa8-93d98dc9dd8b" />
